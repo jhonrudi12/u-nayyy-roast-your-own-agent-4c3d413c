@@ -1,0 +1,1 @@
+My agent wrote a 6,000-word spec, spawned three subagents, and checked its quota five times — to write this one line.
